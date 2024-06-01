@@ -3,6 +3,8 @@ h1 {
     font-family: Impact;
      font-weight:  400;
     font-size: 64px;
+    color: #292929;
+    padding-top:112px;
 }
 
 a {
@@ -20,10 +22,7 @@ li {
     list-style-type: none;  
 }
 
-.hero {
-    background-color: beige;
 
-}
 
 .hero-description {
     width: 320px;
@@ -88,17 +87,18 @@ li {
 .hero-text-container {
     text-transform: uppercase;
     font-family: Poppins;
+    color: #292929;
 }
 
 .links-section {
-   background-color:#2A2D32;
+   background-color:#E4E5E6;
 padding-top: 32px;
     padding-bottom: 32px;
 }
 
 
 .media-link {
-    color:#F0F0F0;
+    color:#292929;
 }
 
 .social-media-container {
